@@ -1,0 +1,75 @@
+.avatar{
+	display: inline-block;
+  	position: relative;
+  	width: 300px;
+  	height: 300px;
+  	overflow: hidden;
+  	border-radius: 50%;
+  	transform: rotate(90deg);
+    margin: 0 auto;    
+}
+
+.avatar img{
+	width: auto;
+  	height: 100%;
+}
+.cont{
+	padding-right: 300px;
+}
+.col-sm-4{
+	width: 100%; 
+    text-align: center;
+}
+.col-sm-8{
+    
+}
+
+.masthead-title{
+	margin-top: 20px;
+}
+.ame{
+	width: 300px;
+    margin: 0 auto;    
+}
+.icons{
+  background: url(../img/8bitsocial.png);
+  
+  width: 40px;
+  height: 40px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 10px;
+}
+
+#twitter{
+  background-position: -150px -141px;
+}
+#linkedin{
+  background-position: -50px -233px;
+
+}
+
+#instagram{
+  background-position: -0px -90px;
+}
+
+#github{
+  background-image: url(../img/GitHub-Mark-32px.png);
+  width: 32px;
+  height: 32px;
+}
+.icons-wrapper{
+  width: 100%
+}
+
+
+
+
+
+
+
+
+
+
+
